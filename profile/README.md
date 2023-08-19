@@ -13,7 +13,7 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ✔️ | Train the basic model on 1m+ data points of business information <br>
 | ✔️ | Implement a basic chat system <br>
 | ✔️ | Implement a basic response system <br>
-| ✔️ | Open the initial prototype public beta phase <br>
+| ✔️ | Open the initial prototype private beta phase <br>
 | ❌ | Accelerate response time <br>
 | ❌ | Traing an advanced model on 10m+ data points of business information <br>
 | ❌ | Add the ability for the bot to learn in real time <br>
@@ -26,7 +26,7 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ✔️ | Write a modular forecasting engine <br>
 | ✔️ | Implement .csv files as the source of data <br>
 | ✔️ | Allow for .hdf5 models to be generated and used anywhere (tf/google/azure) <br>
-| ✔️ | Open the initial prototype public beta phase <br>
+| ✔️ | Open the initial prototype private beta phase <br>
 | ✔️ | Accelerate training time <br>
 | ❌ | Refractor the engine to allow for more unique use cases <br>
 | ❌ | Make the engine more lightweight and add an API <br>
