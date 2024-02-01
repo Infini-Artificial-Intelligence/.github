@@ -14,11 +14,11 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ✔️ | Implement a basic chat system <br>
 | ✔️ | Implement a basic response system <br>
 | ✔️ | Open the initial prototype private beta phase <br>
-| ❌ | Accelerate response time <br>
-| ❌ | Traing an advanced model on 10m+ data points of business information <br>
+| ✔️ | Accelerate response time <br>
+| ✔️ | Traing an advanced model on 10m+ data points of business information <br>
 | ❌ | Add the ability for the bot to learn in real time <br>
 | ❌ | Launch the project as a public beta <br>
-| ❌ | Add the ability fot the bot to be given resource requests for additional sources of information <br>
+| ✔️ | Add the ability fot the bot to be given resource requests for additional sources of information <br>
 | ❌ | Create an API <br>
 | ❌ | Full public release <br>
 
@@ -31,5 +31,5 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ❌ | Refractor the engine to allow for more unique use cases <br>
 | ❌ | Make the engine more lightweight and add an API <br>
 | ❌ | Launch the project as a public beta <br>
-| ❌ | Allow for more user input <br>
+| ✔️ | Allow for more user input <br>
 | ❌ | Full public release <br>
