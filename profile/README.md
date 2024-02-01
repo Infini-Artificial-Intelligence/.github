@@ -18,9 +18,9 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ✔️ | Open the initial prototype private beta phase <br>
 | ✔️ | Accelerate response time <br>
 | ✔️ | Traing an advanced model on 10m+ data points of business information <br>
+| ✔️ | Add the ability fot the bot to be given resource requests for additional sources of information <br>
 | ❌ | Add the ability for the bot to learn in real time <br>
 | ❌ | Launch the project as a public beta <br>
-| ✔️ | Add the ability fot the bot to be given resource requests for additional sources of information <br>
 | ❌ | Create an API <br>
 | ❌ | Full public release <br>
 
@@ -30,8 +30,8 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 | ✔️ | Allow for .hdf5 models to be generated and used anywhere (tf/google/azure) <br>
 | ✔️ | Open the initial prototype private beta phase <br>
 | ✔️ | Accelerate training time <br>
+| ✔️ | Allow for more user input <br>
 | ❌ | Refractor the engine to allow for more unique use cases <br>
 | ❌ | Make the engine more lightweight and add an API <br>
 | ❌ | Launch the project as a public beta <br>
-| ✔️ | Allow for more user input <br>
 | ❌ | Full public release <br>
