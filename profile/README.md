@@ -7,6 +7,8 @@ InfiniAI is run solely by OverpoweredCoding, so please be patient when filling o
 + Advanced Forecasting <br>
 + InfiniAI Proprietary (will be revealed once it's ready for public testing)
 
+# ❌ PROJECT ON HOLD DUE TO A POTENTIAL BUY OUT ❌
+
 ## Development Status
 
 ### Business Assistant
